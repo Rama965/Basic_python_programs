@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+print(f"Addition {a+b}")
+print(f"Subtraction {a-b}")
+print(f"Multiplication {a*b}")
+print(f"Floor Division {a//b}")
+print(f"Division {a/b}")
